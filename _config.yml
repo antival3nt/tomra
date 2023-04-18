@@ -9,6 +9,7 @@ tags:
 template:
   name: github-pages-with-jekyll
   repo: github-pages-with-jekyll-template
+theme: hacker
 preferences:
   - type: dropdown
     name: language
